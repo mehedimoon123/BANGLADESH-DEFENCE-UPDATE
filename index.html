@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <title>Bangladesh Defence Update  </title>
+    
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" /> <!-- https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans -->
+    <link href="css/all.min.css" rel="stylesheet" /> 
+    <link href="slick/slick.css" rel="stylesheet" /> 
+    <link href="slick/slick-theme.css" rel="stylesheet" />
+	<link href="css/bootstrap.min.css" rel="stylesheet" /> 
+	<link href="css/main.css" rel="stylesheet" />
+    <link rel=icon href="img/sitelogo.png" sizes="50x50" type="image/png">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.css">	
+	<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?qcdonz" />
+<link rel="stylesheet" type="text/css"href="css/style.css">
+</head>
+<body>
+    <!-- Page Header -->
+    <div class="container-fluid">
+        <div class="tm-site-header">
+            <div class="row">
+                <div class="col-12 tm-site-header-col">
+                    <div class="tm-site-header-left">
+                        <img src="img/Armed-Forces-.png" width="100" height="100">
+                        <br>
+                        <h2 class="tm-site-name">Bangladesh Defence Update</h2>
+                    </div>
+                    <div class="tm-site-header-right tm-menu-container-outer">
+                        
+                        <!--Navbar-->
+                        <nav class="navbar navbar-expand-lg">
+                        
+                          <!-- Collapse button -->
+                          <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
+                            aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
+                                class="fas fa-bars fa-1x"></i></span></button>
+                        
+                          <!-- Collapsible content -->
+                          <div class="collapse navbar-collapse tm-nav" id="navbarSupportedContent1">
+                        
+                            <!-- Links -->
+                            
+                            <ul class="navbar-nav mr-auto">
+                              <li class="nav-item active">
+                                <a class="nav-link tm-nav-link" href="#" .v-align
+                                .hero-btn
+                                  %button.btn
+                                    Click 
+                                  - (1..35).each do |i|
+                                    %span.particles-circle >Home <span class="sr-only">(current)</span></a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link tm-nav-link" href="about.html">AboutUs</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link tm-nav-link" href="miscellaneous.html">Miscellaneous</a>
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link tm-nav-link" href="contact.html">Contact</a>
+                              </li>
+                            </ul>
+                            <!-- Links -->
+                        
+                          </div>
+                          <!-- Collapsible content -->
+                        
+                        </nav>
+                        <!--/.Navbar-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+      
+      
+      
+      
+    
+      
+      
+      
+    
+      
+    
+        
+    
+      
+      
+    
+      
+      
+   
+            </video>
+        <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" width="1100" height="500">
+            <source src="videos/AFD.mp4" type="video/mp4">
+        </video>
+        
+        <!-- Main -->
+        <main>
+            <!-- Welcome section -->
+            <section class="tm-welcome">
+                <div class="row">
+                    <div class="col-12">
+                        <h3 class="tm-section-header tm-header-floating">Welcome to Bangladesh Defence Update</h3>         
+                    </div>
+                </div>
+                
+                <div class="row tm-welcome-row">
+                    <article class="col-lg-6 tm-media">
+                        <img src="img/3.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <div class="tm-media-body">
+                            <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">BAF airlifts coronavirus infected doctor to Dhaka from Jessore</h3></a>
+                            <p>A helicopter of Bangladesh Air Force took the 32-year-old doctor to the Mugda Medical College and Hospital in Dhaka Wednesday night.</p>
+                        </div>
+                    </article>
+                    <article class="col-lg-6 tm-media">
+                        <img src="img/4.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <div class="tm-media-body">
+                            <a href="https://bangla.bdnewsnet.com/bdmilitary/2020/5475/" target ="new" class="tm-article-link"><h3 class="tm-article-title text-uppercase">3rd C-130J aircraft</h3></a>
+                            <p>Bangladesh Air Force receives 3rd C-130J aircraft</p>
+                        </div>
+                    </article>
+                    <article class="col-lg-6 tm-media">
+                        <img src="img/2.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <div class="tm-media-body">
+                            <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">Upcoming RQ-12B WASP UAV of Bangladesh</h3></a>
+                            <p>মার্কিন যুক্তরাষ্ট্র থেকে বাংলাদেশ সেনাবাহিনীর জন্য অজানাসংখ্যক এই ড্রোন সিস্টেম ক্রয় করা হয়েছে যা শীঘ্রই ডেলিভারী পাবে।</p>
+                        </div>
+                    </article>
+                    <article class="col-lg-6 tm-media">
+                        <img src="img/1.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <div class="tm-media-body">
+                            <a href="#" class="tm-article-link"><h3 class="tm-article-title text-uppercase">Happy Birthday 2nd PARA-Commando Battalion of Bangladesh Army. </h3></a>
+                            <p>বাংলাদেশ সেনাবাহিনীর স্পেশাল ফোর্স প্যারা-কমান্ডো ব্রিগেডে ২ টি ব্যাটালিয়ন আছে যা ১ ও ২ প্যারা-কমান্ডো ব্যাটালিয়ন নামে পরিচিত।  </p>
+                        </div>
+                    </article>
+                    <article class="col-lg-6 tm-media">
+                        <img src="img/55.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <div class="tm-media-body">
+                            <a href="https://bangla.bdnewsnet.com/bdmilitary/2020/5610/"target="new" class="tm-article-link"><h3 class="tm-article-title text-uppercase">7 new K-8W Aircraft for BAF </h3></a>
+                            <p>Bangladesh Air Force receives 7 K-8w Trainer Aircraft from China,15OCT2020</p>
+                        </div>
+                    </article>
+                    <article class="col-lg-6 tm-media">
+                        <img src="img/14.jpg" alt="Welcome image" class="img-fluid tm-media-img" />
+                        <div class="tm-media-body">
+                            <a href="https://m.dailyinqilab.com/article/328713/?fbclid=IwAR3G81tJDhegXgIDkFXizpM6Ulholf4jtNnRBwWPZR0OibnVOk1WFY_tycw" class="tm-article-link"><h3 class="tm-article-title text-uppercase">বাংলাদেশ সেনাবাহিনীর উপর পাহাড়ি সন্ত্রাসীদের হামলা,সেনাবাহিনীর গুলিতে ২ সন্ত্রাসী নিহত। </h3></a>
+                            <p>রাঙ্গামাটিতে সেনাটহলে ইউপিডিএফ (প্রসিত গ্রুপ)’র সন্ত্রাসীদের গুলিবর্ষণের ঘটনা ঘটেছে।সেনাটহলে জেএসএস সন্ত্রাসীরা অতর্কিতে গুলিবর্ষণ করলে আত্মরক্ষার্থে সেনাবাহিনী পাল্টা গুলিবর্ষণ করে।এতে দুই ইউপিডিএফ সন্ত্রাসী নিহত ও এক সেনাবাহিনী সদস্য আহত হয়েছে। </p>
+                        </div>
+                    </article>
+                    
+                </div>
+            
+                <section class="effect-honey">
+                    <div class="row">
+                        <div class="col-12">
+                <div class="video-gallery">
+                    <div class="container">
+                        <div class="wrapper">
+                            <div class="row">
+                                <div class="col-sm-9">
+                                    <div class="row">
+                                        <div class="col-sm-6">
+                                            <div class="video-gallery">
+                                                <div>
+                                                                                    <h2 class ="tm-section-header tm-section-header-small">Video Gallery</h2>
+                                                                                </div>
+                                                                                    
+                                                                                    
+
+
+
+
+                                                 <div class="row">
+                                                    <div class="col-sm-12">
+                                                         <div>
+                <div class="views-element-container" id="block-views-block-video-gallery-block-1-2">
+              
+                
+                  <div><div class="js-view-dom-id-2477e9bf630d58ce1b09702062b9f7baadc58883dcfe3540eecf64c65dbf01fd">
+              
+              
+              
+            
+              
+              
+              
+                    <article class="col-lg-12 tm-media">
+                 
+                        
+                        <div><div class="video-list"><div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/5R0WsNQXIDo"></iframe></div></div><h1 class="h1design"><a href="/node/262" hreflang="en">Armed Forces Day Anirban 2019</a></h1></div>
+                  
+                    </article>
+                        <article class="col-lg-12 tm-media">
+                  <div><div class="video-list"><div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" frameborder="0" width="560" height="315" src="https://www.youtube.com/embed/ZMjt_LkpPPg?start=05"></iframe></div></div><h1 class="h1design"><a href="/node/262" hreflang="en">বাংলার আকাশে সাত প্রহরী | Bangladesh Air Force | </a></h1></div>
+                </article>
+                </div>
+            </div>
+                
+                </section>
+                
+            <!-- Featured -->
+            
+            <section class="tm-featured">
+                <div class="row">
+                    <div class="col-12">
+                        <h2 class="tm-section-header tm-section-header-small">Photo Gallery</h2>        
+                    </div>
+                </div>
+                
+                <!-- Carousel -->
+                <div class="grid tm-carousel">
+                    <figure class="effect-honey">
+                        <img src="img/101.jpg" alt="Featured Item" >
+                        <img src="img/102.jpg" alt="Featured Item">
+                        <img src="img/103.jpg" alt="Featured Item">
+                        <figcaption>
+                            <h4><i><span>ARMED</span> FORCES</i></h4>
+                        </figcaption>
+                    </figure>
+                    <figure class="effect-honey">
+                        <img src="img/105.jpg" alt="Featured Item">
+                        <img src="img/106.jpg" alt="Featured Item">
+                        <img src="img/6.jpg" alt="Featured Item">
+                        <figcaption>
+                            <h4><i><span>Testing</span> Prototype</i></h4>
+                        </figcaption>
+                    </figure>
+                    <figure class="effect-honey">
+                        <img src="img/download1.jpg" alt="Featured Item">
+                        <img src="img/download2.jpg" alt="Featured Item">
+                        <img src="img/download3.jpg" alt="Featured Item">
+
+                        <figcaption>
+                            <h4><i><span>Battle</span> Ground</i></h4>
+                        </figcaption>
+                    </figure>
+                    <figure class="effect-honey">
+                        <img src="img/dw.jpg" alt="Featured Item">
+                        <img src="img/dw2.jpg" alt="Featured Item">
+                        <img src="img/8.jpg" alt="Featured Item">
+                        <figcaption>
+                            <h4><i><span>Academy</span></i></h4>
+                        </figcaption>
+                    </figure>
+                    <figure class="effect-honey">
+                        <img src="img/9.jpg" alt="Featured Item">
+                        
+                        <figcaption>
+                            <h4><i><span>Parade</span></i></h4>
+                        </figcaption>
+                    </figure>
+                    <figure class="effect-honey">
+                        <img src="img/10.jpg" alt="Featured Item">
+                        <figcaption>
+                            <h4><i><span>Stand</span></i></h4>
+                        </figcaption>
+                    </figure>
+                    
+                </div>
+            </section>
+            
+            <footer>
+                Copyright &copy; 2020 Bangladesh Defence Update
+            </footer>
+            
+        </main>
+    </div>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="slick/slick.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+</body>
+</html>
